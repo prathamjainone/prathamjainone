@@ -17,22 +17,8 @@ I bridge the gap between complex algorithmic problem-solving and scalable full-s
 
 ---
 
-### 📈 GitHub Activities
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjainone&theme=react-dark" width="100%" alt="Activity Graph" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjainone&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=prathamjainone&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+### 📈 Contribution Activity
+![](https://github-readme-streak-stats.herokuapp.com/?user=prathamjainone&theme=radical&hide_border=true)
 
 ---
 
