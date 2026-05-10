@@ -1,4 +1,4 @@
-# Hi, I'm Pratham Jain 🚀
+# Hi, I'm Pratham Jain 
 
 **Final Year CSE Student | Patent-Pending Inventor | National Winner @ IIT Roorkee**
 
