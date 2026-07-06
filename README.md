@@ -17,11 +17,6 @@ I bridge the gap between complex algorithmic problem-solving and scalable full-s
 
 ---
 
-### 📈 Contribution Activity
-![](https://github-readme-streak-stats.herokuapp.com/?user=prathamjainone&theme=radical&hide_border=true)
-
----
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-jain-cse)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainpratham370@gmail.com)
